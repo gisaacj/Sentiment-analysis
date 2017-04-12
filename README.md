@@ -10,3 +10,5 @@
 * 无法结合上下文和整段话的主题
 * 短句判断失败率极大
 * ......
+## pic
+ ![image](https://github.com/gisaacj/Sentiment-analysis/blob/master/ex.PNG?raw=true)
